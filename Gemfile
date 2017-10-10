@@ -57,6 +57,8 @@ end
 gem 'figaro'
 
 gem 'kaminari'
+gem 'uglifier'
+
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
