@@ -1,0 +1,17 @@
+DATABASE_USERNAME: "postgres"
+DATABASE_PASSWORD: "root"
+DATABASE_HOST: "localhost"
+DATABASE_NAME: "dummy_development"
+SES_USERNAME: "AKIAJWGPVTS34N2TYDLQ"
+SES_PORT: 465
+SES_PASSWORD: "AtFVVdgBahigTaHfn+xvjMjdRPdKYeYdJL4SWDKmPVeu"
+AWS_ACCESS_KEY_ID: "AKIAIJLCDCCGAPIZHCUA"
+AWS_SECRET_ACCESS_KEY: "Xki1S4tOhRfybDnrJchjTpUsYKWTdSqaA+yOYDwY"
+CERTIFY_AWS: true
+HOST_APP: "localhost-ravika"
+
+development:
+  DATABASE_NAME: "dummy_development"
+
+test:
+  DATABASE_NAME: "dummy_test"
